@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ec12e1f2.css",
+    "main.js": "./static/js/main.a6d396ce.js",
+    "static/media/card-back.png": "./static/media/card-back.a9f12982dab71372ca0a.png",
+    "static/media/htmlcss.png": "./static/media/htmlcss.24df4f62493b38922231.png",
+    "static/media/react.png": "./static/media/react.8d24e73eedd4c19e44a9.png",
+    "static/media/netlify.png": "./static/media/netlify.91414e85772f27c024ae.png",
+    "static/media/heroku.png": "./static/media/heroku.8d4dd40a00f11973139c.png",
+    "static/media/nodejs.png": "./static/media/nodejs.d8a80bdb629299e0d8aa.png",
+    "static/media/javascript.png": "./static/media/javascript.de727adf89a242b83ee9.png",
+    "static/media/congrats.png": "./static/media/congrats.7449e7332ac11c30a148.png",
+    "index.html": "./index.html",
+    "main.ec12e1f2.css.map": "./static/css/main.ec12e1f2.css.map",
+    "main.a6d396ce.js.map": "./static/js/main.a6d396ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec12e1f2.css",
+    "static/js/main.a6d396ce.js"
+  ]
+}
